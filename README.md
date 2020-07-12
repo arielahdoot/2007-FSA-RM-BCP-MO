@@ -181,7 +181,7 @@ Hello! This is where Ariel and Alec will put all the material for BCP. If any of
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
 ### Notes
 
@@ -273,4 +273,4 @@ Hello! This is where Ariel and Alec will put all the material for BCP. If any of
 1. [Returning Values From Functions](11-higher-order-functions-II/A-ret-val-func.js)
 2. [Returning Functions From Functions](11-higher-order-functions-II/B-ret-fnc-fnc.js)
 3. [Passing Functions in Functions](11-higher-order-functions-II/C-scope.js)
-4. [Closure](11-higher-order-functions-II/D-closure.js) -->
+4. [Closure](11-higher-order-functions-II/D-closure.js)
