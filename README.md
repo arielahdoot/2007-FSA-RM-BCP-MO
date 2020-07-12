@@ -33,6 +33,7 @@ Hello! This is where Ariel and Alec will put all the material for BCP. If any of
 - [Control Flow(if and else) 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
 - [Control Flow 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
 
+<!--
 ## **00 Additional Notes**
 
 ### Notes
@@ -44,7 +45,7 @@ Hello! This is where Ariel and Alec will put all the material for BCP. If any of
 3. [Quick Maths](00-additional-notes/03-quick-maths.js)
 4. [String Interpolation](00-additional-notes/04-string-interpolation.js)
 
-<!-- ## **01 Introduction and tidy code**
+## **01 Introduction and tidy code**
 
 **[Live Lecture](https://youtu.be/QKurwDWS8ds)**
 
