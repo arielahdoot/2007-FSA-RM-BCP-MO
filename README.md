@@ -2,7 +2,7 @@
 
 Credit to [Sulamita](https://github.com/kyusulamita) for the template repo!
 
-Hello! This is where Ariel and Alec will put all the material for BCP. If any of the links don't work don't hesitate to slack us and let us know.
+Hello! This is where Ariel and Sulamita will put all the material for BCP. If any of the links don't work don't hesitate to slack us and let us know.
 
 [![Run on Repl.it](https://repl.it/badge/github/aaahdoot/2007-BCP)](https://repl.it/github/aaahdoot/2007-BCP)
 
