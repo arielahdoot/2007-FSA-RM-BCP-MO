@@ -33,7 +33,6 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 - [Control Flow(if and else) 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
 - [Control Flow 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
 
-<!--
 ## **00 Additional Notes**
 
 ### Notes
@@ -50,6 +49,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 **[Live Lecture](https://youtu.be/zTKG7IgLk54)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
+
 [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
 
 [Lecture Slides](00-slides/01-Introduction-and-Tidy-Code.pdf)
@@ -59,7 +59,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 [Full Notes](01-tidy-code)
 
 1. [Indenting](01-tidy-code/A-indenting.js)
-2. [Variable Names](01-tidy-code/B-variableNamings.js)
+2. [Variable Names](01-tidy-code/B-variableNaming.js)
 <!-- 3. [Pup Example](01-tidy-code/03-pup-example.js)
 3. [String Interpolation](01-tidy-code/04-string-interpolation.js)
 4. [Quick Maths](01-tidy-code/05-quick-maths.js) -->
