@@ -44,9 +44,9 @@ Hello! This is where Ariel and Alec will put all the material for BCP. If any of
 3. [Quick Maths](00-additional-notes/03-quick-maths.js)
 4. [String Interpolation](00-additional-notes/04-string-interpolation.js)
 
-<!-- ## **01 Introduction and tidy code**
+## **01 Introduction and tidy code**
 
-**[Live Lecture](https://youtu.be/QKurwDWS8ds)**
+**[Live Lecture](https://youtu.be/zTKG7IgLk54)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
@@ -57,13 +57,13 @@ Hello! This is where Ariel and Alec will put all the material for BCP. If any of
 
 [Full Notes](01-tidy-code)
 
-1. [Indenting](01-tidy-code/01-indenting.js)
-2. [Variable Names](01-tidy-code/02-variable-names.js)
-3. [Pup Example](01-tidy-code/03-pup-example.js)
-4. [String Interpolation](01-tidy-code/04-string-interpolation.js)
-5. [Quick Maths](01-tidy-code/05-quick-maths.js)
+1. [Indenting](01-tidy-code/A-indenting.js)
+2. [Variable Names](01-tidy-code/B-variableNamings.js)
+<!-- 3. [Pup Example](01-tidy-code/03-pup-example.js)
+3. [String Interpolation](01-tidy-code/04-string-interpolation.js)
+4. [Quick Maths](01-tidy-code/05-quick-maths.js) -->
 
-## **02 Loops And Debugging**
+ <!-- ## **02 Loops And Debugging**
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
