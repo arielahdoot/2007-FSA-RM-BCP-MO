@@ -60,11 +60,8 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 1. [Indenting](01-tidy-code/A-indenting.js)
 2. [Variable Names](01-tidy-code/B-variableNaming.js)
-<!-- 3. [Pup Example](01-tidy-code/03-pup-example.js)
-3. [String Interpolation](01-tidy-code/04-string-interpolation.js)
-4. [Quick Maths](01-tidy-code/05-quick-maths.js) -->
 
- <!-- ## **02 Loops And Debugging**
+## **02 Loops And Debugging**
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
@@ -74,7 +71,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text) -->
 
 ### Notes
 
@@ -86,7 +83,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 4. [Continue Keyword](02-loops-and-debugging/04-continue-keyword.js)
 5. [Break Keyword](02-loops-and-debugging/04-break-keyword.js)
 
-## **03 Coercion and Truthiness**
+ <!-- ## **03 Coercion and Truthiness**
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
