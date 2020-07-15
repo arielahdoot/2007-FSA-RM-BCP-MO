@@ -13,16 +13,16 @@
 
 // count from 5 to 1
 // skip logging out the even number
-// let count = 5;
-// while (count >= 1) {
-//   // if count is even 
-//   if (count % 2 === 0) {
-//     count--;
-//     continue;
-//   }
-//   console.log('count is', count);
-//   count--;
-// }
+let count = 5;
+while (count >= 1) {
+  // if count is even 
+  if (count % 2 === 0) {
+    count--;
+    continue;
+  }
+  console.log('count is', count);
+  count--;
+}
 
 
 // !! BIG WARNING !!
@@ -57,14 +57,14 @@ function isOdd (num) {
  *
  * @param {Number} end - number we're counting up to
  */
-const logOutEven = (end) => {
-  for (let i = 0; i < end; i++){
-    if (isOdd(i)) {
-      continue;
-    }
-    console.log(i);
-  }
-}
+// const logOutEven = (end) => {
+//   for (let i = 0; i < end; i++){
+//     if (isOdd(i)) {
+//       continue;
+//     }
+//     console.log(i);
+//   }
+// }
 
 // const isVowel = () => {
 function isVowel(char) {

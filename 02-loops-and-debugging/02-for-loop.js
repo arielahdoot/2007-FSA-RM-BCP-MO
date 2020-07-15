@@ -84,6 +84,7 @@ let letters = 'abcdefg';
 // FOR THIS WORKSHOP
 // important to note -> strings are inmutable
 // what does this mean???
+// let letters = 'abcdefg';
 // console.log(letters);
 // letters[0] = 'Z';
 // console.log(letters);
@@ -95,9 +96,8 @@ let letters = 'abcdefg';
 // Try it out:
 // make a capitalized version of our letters string
 let newStr = ''; // undefined
-letters += '7';
 
-console.log(letters)
+// console.log(letters)
 for (let i = 0; i < letters.length; i++) {
   let currentLetter = letters[i];
   // making it an uppercase letter

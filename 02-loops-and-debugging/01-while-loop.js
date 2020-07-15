@@ -36,12 +36,12 @@
 // // have to make sure the conditional is eventually false!
 // while (count >= 1) {
 //   console.log('count is', count);
-//   count--;
+//   count = count - 1; // count--
 // }
 
 
-let count = 0;
-while (count < 100) {
-  console.log('count is', count)
-  count += 10; // count = count + 10;
-}
+// let count = 0;
+// while (count < 100) {
+//   console.log('count is', count)
+//   count += 10; // count = count + 10;
+// }
