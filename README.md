@@ -44,7 +44,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 3. [Quick Maths](00-additional-notes/03-quick-maths.js)
 4. [String Interpolation](00-additional-notes/04-string-interpolation.js)
 
-## **01 Introduction and tidy code**
+## **01 Introduction and Tidy Code**
 
 **[Live Lecture](https://youtu.be/sk9Y2mMftzk)**
 
