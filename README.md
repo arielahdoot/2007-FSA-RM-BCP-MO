@@ -46,7 +46,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **01 Introduction and tidy code**
 
-**[Live Lecture](https://youtu.be/zTKG7IgLk54)**
+**[Live Lecture](https://youtu.be/sk9Y2mMftzk)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
@@ -83,11 +83,11 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 4. [Continue Keyword](02-loops-and-debugging/04-continue-keyword.js)
 5. [Break Keyword](02-loops-and-debugging/04-break-keyword.js)
 
- <!-- ## **03 Coercion and Truthiness**
+ ## **03 Coercion and Truthiness** 
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
-**[Live Lecture](https://youtu.be/x0K-tGFs9Ck)**
+**[Live Lecture](https://youtu.be/EjrgS-8v4hc)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
@@ -105,7 +105,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 6. [Boolean Coercion 3](03-coercion-and-truthiness/07-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/08-logical-operators-1.js)
 
-## **04 Scope**
+<!--- ## **04 Scope**
 
 **[Live Lecture](https://youtu.be/bkONsN8SqX0)**
 
