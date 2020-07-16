@@ -1,9 +1,9 @@
-/* avoid using the == operator, because it uses a large set of rules to implicitly coerce values to the same type before comparing them. */
+// Using the == operator is weird
 
 console.log(10 == 10);
 console.log(10 == '10');
 console.log('true' == true);
-console.log(''== false);
+console.log('' == false);
 console.log(true == '1');
 
 /*
@@ -25,14 +25,6 @@ Results of the above console.logs:
 true == '1'; // => true, kinda weird*
 */
 
-/* *behind the scenes, JS coerced both of these values to numbers:
-   true coerced to 1
-   '1' coerced to  1
-   1 == 1 => true
-*/
-
 /*
-Notes:
---------
-
+TL;DR: avoid using the == operator, because it uses a large set of rules to implicitly coerce values to the same type before comparing them. 
 */

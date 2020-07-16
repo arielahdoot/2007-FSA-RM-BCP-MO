@@ -31,21 +31,12 @@ These are all primitive types!
 Other primitive types:
   - null
   - undefined
-  - Symbol (not covered in this course)
-
 
 "Complex" or "object" types:
 ---------------------------
 - functions
 - arrays (will cover later)
 - objects (will cover later)
-
-Major differences between primitive and complex types:
-  
-  - only complex types can be mutated (will cover later)
-  - primitive types are passed by value, complex types are passed by reference (will cover later)
-
-*/
 
 // ---------------------------------------------------
 
