@@ -83,7 +83,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 4. [Continue Keyword](02-loops-and-debugging/04-continue-keyword.js)
 5. [Break Keyword](02-loops-and-debugging/04-break-keyword.js)
 
- ## **03 Coercion and Truthiness** 
+## **03 Coercion and Truthiness**
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
@@ -105,9 +105,11 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 6. [Boolean Coercion 3](03-coercion-and-truthiness/F-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/G-logical-operators-1.js)
 
-<!--- ## **04 Scope**
+## **04 Scope**
 
-**[Live Lecture](https://youtu.be/bkONsN8SqX0)**
+**[Live Lecture](https://youtu.be/E_z8CfvjEZY)**
+
+**[Scope Workshop Problems 4 & 5 Review](https://youtu.be/VRGF_o7OGfA)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 
@@ -117,17 +119,15 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 [Full Notes](04-scope)
 
-1. [Global Scope](04-scope/01-global-scope.js)
-2. [Global Scope II](04-scope/02-global-scope-ii.js)
-3. [Functional Scope](04-scope/03-functional-scope.js)
-4. [Functional Scope II](04-scope/04-functional-scope-ii.js)
-5. [Functions and Parameters](04-scope/05-functions-and-parameters.js)
-6. [Nested Functions](04-scope/06-nested-functions.js)
-7. [Nested Functions II](04-scope/07-nested-functions-ii.js)
-8. [Block Scope](04-scope/08-block-scope.js)
-9. [Scope Best Practices](04-scope/09-scope-best-practices.js)
+1. [What is Scope?](04-scope/A-scope-is.js)
+2. [Global Scope](04-scope/B-globalscope.js)
+3. [Functional Scope](04-scope/C-func-scope.js)
+4. [Nested Functions & Functional Scope](04-scope/D-nestedfunc.js)
+5. [Block Scope](04-scope/E-blockscope.js)
+6. [Hoisting](04-scope/F-hoisting.js)
+7. [Best Practices](04-scope/G-bestpract.js)
 
-## **05 Arrays I**
+ <!--- ## **05 Arrays I**
 
 **[Live Lecture](https://youtu.be/86IVxke3bx0)**
 
