@@ -139,3 +139,15 @@ How does JS look for the value for a given variable?
 4 - check global scope
 5 - if not found -> ReferenceError
 */
+
+/*
+Possible analogy for how to think about which scopes can access which variables (can use as needed for however many nested scopes you have)
+--------------------------------------------------------------------
+- assume for this example that there is the global scope, then an outer function, and an inner function (that is defined inside of the outer function)
+- think of the global scope as the grandparent
+- think of the outer function as the parent
+- think of the inner function as the child
+- a child looks up to its parents & grandparents: therefore the inner function (child) has access to all of the functions/variables that exist in the parent (outer function) scope and in the grandparent (global) scope
+- a parent looks up to the grandparents: therefore the outer function (parent) has access to al of the functions/variables that exist in the grandparent (global) scope; however, because a parent does NOT look up to the child, the outer function does NOT have access to any of the functions/variables declared in the child (inner function) scope
+- a grandparent does NOT look up to its children or its grandchildren: therefore the global scope does NOT have access to any of the functions/variables declared in the parent (outer function) scope or the child (inner function) scope
+*/
