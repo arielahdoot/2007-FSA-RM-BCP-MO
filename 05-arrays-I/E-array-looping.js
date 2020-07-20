@@ -8,7 +8,7 @@ let names = ['George', 'John', 'Thomas'];
 /* We start at i = 0 because the elements of an array start at index 0, and we want all the elements */
 for(let i = 0; i < names.length; i++){ 
 	let element = names[i]; // store the element at index i of the names array in a variable called element
-  console.log(element) // this line prints out the current value of the variable element
+  console.log(element); // this line prints out the current value of the variable element
 }
 
 /*

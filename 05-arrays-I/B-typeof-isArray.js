@@ -1,8 +1,8 @@
 // What is the typeof of an array?
 
-let names = ['George', 'John', 'Thomas'];
+// let names = ['George', 'John', 'Thomas'];
 
-console.log(typeof names);
+// console.log(typeof names);
 
 /*
 Notes:
@@ -18,11 +18,11 @@ Notes:
 
 // The Array.isArray() methods determines whether the argument passed in is actually an array
 
-// let names = ['George', 'John', 'Thomas'];
+let names = ['George', 'John', 'Thomas'];
 
-// console.log(Array.isArray(names));
+console.log(Array.isArray(names));
 
-// console.log(Array.isArray('i am not an array'));
+console.log(Array.isArray('i am not an array'));
 
 /*
 Notes:
