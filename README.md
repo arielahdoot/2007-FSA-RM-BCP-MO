@@ -127,7 +127,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 6. [Hoisting](04-scope/F-hoisting.js)
 7. [Best Practices](04-scope/G-bestpract.js)
 
- <!--- ## **05 Arrays I**
+## **05 Arrays I**
 
 **[Live Lecture](https://youtu.be/86IVxke3bx0)**
 
@@ -154,7 +154,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 13. [Array.includes()](05-arrays-I/M-array-includes.js)
 14. [Array.reverse()](05-arrays-I/N-array-reverse.js)
 
-## **06 Arrays II**
+<!-- ## **06 Arrays II**
 
 **[Live Lecture](https://youtu.be/FOx6DlR0ftQ)**
 
