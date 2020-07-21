@@ -154,26 +154,25 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 13. [Array.includes()](05-arrays-I/M-array-includes.js)
 14. [Array.reverse()](05-arrays-I/N-array-reverse.js)
 
-<!-- ## **06 Arrays II**
+## **06 Arrays II**
 
-**[Live Lecture](https://youtu.be/FOx6DlR0ftQ)**
+<!-- **[Live Lecture](https://youtu.be/FOx6DlR0ftQ)** -->
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text) -->
 
 ### Notes
 
 [Full Notes](06-arrays-II)
 
-1. [Array.splice()](06-arrays-II/A-splice.js)
-2. [Array.join()](06-arrays-II/B-join.js)
-3. [Array.concat()](06-arrays-II/C-concat.js)
-4. [Nested Arrays](06-arrays-II/D-nested-arrays.js)
-5. [Nested Loops](06-arrays-II/E-nested-looping.js)
-6. [Grid](06-arrays-II/F-grid.js)
+1. [splice()](06-arrays-II/01-splice.js)
+2. [join() + split()](06-arrays-II/02-join-split.js)
+3. [concat()](06-arrays-II/03-concat.js)
+4. [Nested Arrays](06-arrays-II/04-nested-arrays.js)
+6. [Grid](06-arrays-II/05-array-grid.js)
 
-## **07 Objects I**
+<!--  ## **07 Objects I**
 
 **[Live Lecture](https://youtu.be/4tFBt-OCkB4)**
 
