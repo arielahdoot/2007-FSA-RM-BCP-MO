@@ -129,7 +129,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **05 Arrays I**
 
-**[Live Lecture](https://youtu.be/86IVxke3bx0)**
+**[Live Lecture](https://youtu.be/GDtUeWtrHEU)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
