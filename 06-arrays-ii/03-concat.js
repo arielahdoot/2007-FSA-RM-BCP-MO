@@ -24,3 +24,6 @@ console.log(names);
 // console.log(names);
 // console.log(older);
 // console.log(younger);
+
+// const names = younger.concat(Array(5).fill(notAnArr2));
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill#:~:text=The%20fill()%20method%20changes,It%20returns%20the%20modified%20array.

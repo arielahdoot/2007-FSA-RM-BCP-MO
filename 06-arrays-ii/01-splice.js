@@ -15,7 +15,7 @@
 */
 
 
-let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
+// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
 // let acrossTheUniverse = names.splice(1); // ["Pusheen", "Planty", "Mr Sheep"]
 // console.log(acrossTheUniverse)
 // console.log(names);
@@ -29,7 +29,7 @@ let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
   REMOVING ELEMENTS + INSERTING
 */
 
-// start at index i, remove 2 elements, then insert "Theodore"
+// start at index 1, remove 2 elements, then insert "Theodore"
 // let acrossTheUniverse = names.splice(1, 2, "Theodore"); // ["Pusheen", "Planty"]
 // console.log(acrossTheUniverse);
 // console.log(names);
@@ -49,10 +49,16 @@ let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
 /*
   REMOVING EVERYTHING
 */
-// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
+let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
 // let acrossTheUniverse = names.splice(); 
-// console.log(names); // []
-// console.log(acrossTheUniverse);  //["Mr Bear", "Pusheen", "Planty", "Mr Sheep"]
+// console.log(names); //["Mr Bear", "Pusheen", "Planty", "Mr Sheep"]
+// console.log(acrossTheUniverse);  //[]
+
+
+let acrossTheUniverse = names.splice(0); 
+console.log(names); //[]
+console.log(acrossTheUniverse);  //["Mr Bear", "Pusheen", "Planty", "Mr Sheep"]
+
 
 
 
