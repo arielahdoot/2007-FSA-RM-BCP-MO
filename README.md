@@ -156,11 +156,11 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **06 Arrays II**
 
-<!-- **[Live Lecture](https://youtu.be/FOx6DlR0ftQ)** -->
+**[Live Lecture](https://youtu.be/FOx6DlR0ftQ)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
 ### Notes
 
@@ -172,13 +172,13 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 4. [Nested Arrays](06-arrays-II/04-nested-arrays.js)
 6. [Grid](06-arrays-II/05-array-grid.js)
 
-<!--  ## **07 Objects I**
+## **07 Objects I**
 
-**[Live Lecture](https://youtu.be/4tFBt-OCkB4)**
+<!-- **[Live Lecture](https://youtu.be/4tFBt-OCkB4)** -->
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text) -->
 
 ### Notes
 
@@ -195,7 +195,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
 9. [Nested Objects](07-objects-i/09-nested-object.js)
 
-## **08 Objects II**
+<!--## **08 Objects II**
 
 **[Live Lecture](https://youtu.be/GZCwhot5uBA)**
 
