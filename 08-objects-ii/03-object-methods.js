@@ -10,9 +10,15 @@
 //   isHappy: true,
 //   greet: function(){
 //     console.log("Hello I am Pusheen the cat.");
-//   }
+//   },
 // };
 
+// To avoid overriding it use this:
+// Object.freeze(pusheen);
+
+// pusheen.greet = function () {
+//   console.log('I AM PUSHHEEN')
+// }
 // pusheen.greet();
 
 
@@ -21,40 +27,32 @@
 */
 
 
-// let pusheen = {
-//   name: 'Pusheen',
-//   age: 7,
-//   color: 'gray and tabby',
-//   isHappy: true,
-//   greet: function(){
-//     console.log("Hello I am pusheen the cat.");
-//   },
-//   getBirthYear: function(currentYear){
-//     return currentYear - 7;
-//   },
+let pusheen = {
+  name: 'Pusheen',
+  age: 7,
+  color: 'gray and tabby',
+  isHappy: true,
+  greet: function(){
+    console.log("Hello I am pusheen the cat.");
+  },
+  getBirthYear: function(currentYear){
+    return currentYear - 7;
+  },
+  // if we don't get a value, fallback to Sam
+  personalGreet: function(name = 'Sam') {
+    // if (name === undefined) {
+    //   name = 'Sam'
+    // }
+    console.log(`Hello ${name}! I am Pusheen.`);
+  },
 
-//   personalGreet: function(name = 'Sam') {
-//     console.log(`Hello ${name}! I am Pusheen.`);
-//   },
-
-//   sayAge: function(){
-//     console.log("I am 7 years old.");
-//   }
-// };
+  sayAge: function(){
+    console.log("I am 7 years old.");
+  }
+};
 
 
 // console.log(pusheen.getBirthYear(2020));
-// pusheen.personalGreet('Sula');
+pusheen.personalGreet();
 
-// pusheen.sayAge();
-
-
-// pusheen.age += 7;
-
-// console.log(pusheen.age);
-// pusheen.sayAge();
-
-// pusheen.name = 'Pusheen III';
-
-// pusheen.greet();
 

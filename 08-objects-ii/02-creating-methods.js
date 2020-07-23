@@ -21,19 +21,30 @@
   
 */
 
-// let pusheen = {
-//   name: 'Pusheen',
-//   age: 7,
-//   color: 'gray and tabby',
-//   isHappy: true,
-//   myMethod: function(){
-//     console.log("This is my method");
-//   },
-//   sayHi: function() {
-//     console.log('Hello I am pusheen.')
-//   }
-// };
+let pusheen = {
+  name: 'Pusheen',
+  age: 7,
+  color: 'gray and tabby',
+  isHappy: true,
+  myMethod: function(){
+    console.log("This is my method");
+  },
+  sayHi: function() {
+    console.log('Hello I am pusheen.')
+  }
+};
 
 // console.log(pusheen.myMethod);
 // console.log(pusheen.name);
+// pusheen.myMethod();
 // pusheen.sayHi();
+
+// pusheen.yellHello = function() {
+//   console.log("HELLO!!")
+// }
+
+// pusheen['yellHello'] = function() {
+//   console.log("HELLO!!")
+// }
+// pusheen.yellHello();
+
