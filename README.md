@@ -174,11 +174,11 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **07 Objects I**
 
-<!-- **[Live Lecture](https://youtu.be/4tFBt-OCkB4)** -->
+**[Live Lecture](https://youtu.be/4tFBt-OCkB4)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
 ### Notes
 
@@ -195,13 +195,15 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
 9. [Nested Objects](07-objects-i/09-nested-object.js)
 10. [Animal Noises Review](07-objects-i/10-animal-noises-review.js)
-<!--## **08 Objects II**
 
-**[Live Lecture](https://youtu.be/GZCwhot5uBA)**
+
+## **08 Objects II**
+
+<!-- **[Live Lecture](https://youtu.be/GZCwhot5uBA)** -->
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text) -->
 
 ### Notes
 
@@ -213,7 +215,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 4. [This Keyword](08-objects-ii/04-this-keyword.js)
 5. [Calculator Example](08-objects-ii/05-calc-example.js)
 
-## **09 Pass by Value, Pass by Reference**
+<!-- ## **09 Pass by Value, Pass by Reference**
 
 **[Live Lecture](https://youtu.be/5UPA-Xa1Wi0)**
 
