@@ -18,27 +18,27 @@ let calc = {
 // console.log(calc.difference()); // 40 - 10 = 30
 
 
-const bank = {
-  savings: 0,
-  checking: 0,
-  deposit: function(money) {
-    this.savings += money;
-  },
-  transfer: function(amountToTransfer) {
-    this.savings -= amountToTransfer;
-    this.checking += amountToTransfer;
-  },
-  getBankInfo: function () {
-    console.log(`Your savings has ${this.savings}`);
-    console.log(`Your checking has ${this.checking}`);
-  }
-}
+// const bank = {
+//   savings: 0,
+//   checking: 0,
+//   deposit: function(money) {
+//     this.savings += money;
+//   },
+//   transfer: function(amountToTransfer) {
+//     this.savings -= amountToTransfer;
+//     this.checking += amountToTransfer;
+//   },
+//   getBankInfo: function () {
+//     console.log(`Your savings has ${this.savings}`);
+//     console.log(`Your checking has ${this.checking}`);
+//   }
+// }
 
 
-bank.deposit(40);
-bank.getBankInfo();
-bank.transfer(10);
-bank.getBankInfo();
+// bank.deposit(40);
+// bank.getBankInfo();
+// bank.transfer(10);
+// bank.getBankInfo();
 
 
 

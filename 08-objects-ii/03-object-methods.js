@@ -43,7 +43,7 @@
 // };
 
 
-// console.log(pusheen.getBirthYear(2019));
+// console.log(pusheen.getBirthYear(2020));
 // pusheen.personalGreet('Sula');
 
 // pusheen.sayAge();
