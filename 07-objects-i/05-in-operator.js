@@ -8,11 +8,14 @@ use the in operator to check if a KEY is in the object
 let pusheen = {
   name: 'Pusheen',
   age: 7,
-  color: 'gray and tabby'
+  color: 'gray and tabby',
+  siblings: {
+    sister: 'Pip'
+  },
 };
 
 console.log('name' in pusheen); // true
-console.log('sadness' in pusheen); // false
+console.log('sister' in pusheen); // false
 console.log('Pusheen' in pusheen); // false
 
 const keyToLookFor = 'age';
