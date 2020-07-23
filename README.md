@@ -194,7 +194,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 7. [Object Methods](07-objects-i/07-object-methods.js)
 8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
 9. [Nested Objects](07-objects-i/09-nested-object.js)
-
+10. [Animal Noises Review](07-objects-i/10-animal-noises-review.js)
 <!--## **08 Objects II**
 
 **[Live Lecture](https://youtu.be/GZCwhot5uBA)**
