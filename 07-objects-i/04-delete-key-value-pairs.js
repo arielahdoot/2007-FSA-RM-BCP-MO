@@ -11,7 +11,7 @@
 // pusheen.favoriteColor = 'baby blue';
 
 // console.log(pusheen);
-// undefined
+// // undefined
 // pusheen.favouriteColour = undefined;
 
 // console.log(pusheen);

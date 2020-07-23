@@ -3,12 +3,12 @@ use bracket notation or dot notation to add a key/value pair
 */
 
 
-// let pusheen = {
-//   name: 'Pusheen',
-//   age: 7,
-//   colour: 'gray and tabby',
-//   isHappy: true,
-// };
+let pusheen = {
+  name: 'Pusheen',
+  age: 7,
+  colour: 'gray and tabby',
+  isHappy: true,
+};
 
 
 // pusheen['bigSister'] = 'Stormy';

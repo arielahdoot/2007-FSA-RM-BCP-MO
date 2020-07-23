@@ -19,4 +19,4 @@ const keyToLookFor = 'age';
 console.log(keyToLookFor in pusheen); // true
 
 
-// console.log(name in pusheen); // reference error
+console.log(name in pusheen); // reference error

@@ -6,12 +6,13 @@
   like arrays, objects store values, but instead of storing them in numeric "indices", objects store values in string "keys"
  */
 
-let myArray = ['value1', 'value2'];
+// let myArray = ['value1', 'value2'];
 
-let myObject = {
-  'key1': 'value1',
-  'key2': 'value2'
-};
+// let myObject = {
+//   'key1': 'value1',
+//   'key2': 'value2',
+//   'favoriteColor': 'Blue',
+// };
 
 // console.log(myArray[0]);
 // console.log(myObject['key1']);
@@ -54,12 +55,12 @@ let myObject = {
 
 */
 
-console.log(typeof {}); // object
-console.log(typeof []); // object
+// console.log(typeof {}); // object
+// console.log(typeof []); // object
 
-console.log(Array.isArray({})) // false
-console.log(Array.isArray([])) // true
-
+// console.log(Array.isArray({})) // false
+// console.log(Array.isArray([])) // true
+// 
 // const unknown = [];
 
 

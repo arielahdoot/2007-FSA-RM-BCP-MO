@@ -13,10 +13,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 // const arrOfKeys = Object.keys(pusheen);
 // console.log(arrOfKeys);
 
-// // // key => value
+// // // // key => value
 // for (let i = 0; i < arrOfKeys.length; i++){
 //   const key = arrOfKeys[i];
-//   console.log('The key at index i', i , "is", key);
+//   // console.log('The key at index i', i , "is", key);
 //   const value = pusheen[key];
 //   console.log("the value at", key, "is", value);
 // }

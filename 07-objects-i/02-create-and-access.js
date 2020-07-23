@@ -56,10 +56,6 @@ is the same as:
 //   favouriteFood: 'cookies',
 // };
 
-/*
-if you have a long key like "favourite food", then you need quotes
-*/
-
 /* 
 
 use bracket notation to access a value  
@@ -87,22 +83,22 @@ you can also use dot notation to access values
 
 */
 
-// let pusheen = {
-//   name: 'Pusheen',
-//   age: 7,
-//   colour: 'gray and tabby',
-//   isHappy: true,
-//   favouriteFood: 'cookies',
-// };
+let pusheen = {
+  name: 'Pusheen',
+  age: 7,
+  colour: 'gray and tabby',
+  isHappy: true,
+  favouriteFood: 'cookies',
+};
 
-// let keyToCheck = 'name';
+let keyToCheck = 'name';
 // console.log(pusheen);
 
-// console.log(pusheen.age);
-// console.log(pusheen.colour);
+console.log(pusheen.age);
+console.log(pusheen.colour);
 
 // // YOU CAN NOT USE VARIABLES WITH DOT NOTATION !!
 
-// console.log(pusheen.keyToCheck); //undefined
+console.log(pusheen.keyToCheck); //undefined
 // // ! will not work
-// console.log(pusheen.name); // no quotes needed with dot notation
+console.log(pusheen.name); // no quotes needed with dot notation
