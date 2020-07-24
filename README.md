@@ -199,11 +199,11 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **08 Objects II**
 
-<!-- **[Live Lecture](https://youtu.be/GZCwhot5uBA)** -->
+**[Live Lecture](https://youtu.be/GZCwhot5uBA)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
 ### Notes
 
@@ -214,6 +214,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 3. [Object Methods](08-objects-ii/03-object-methods.js)
 4. [This Keyword](08-objects-ii/04-this-keyword.js)
 5. [Calculator Example](08-objects-ii/05-calc-example.js)
+6. [Taco Cat Inc](08-objects-ii/06-taco-cat-inc-review.js)
 
 <!-- ## **09 Pass by Value, Pass by Reference**
 
