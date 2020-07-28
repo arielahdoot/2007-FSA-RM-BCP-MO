@@ -8,12 +8,21 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## Table of Contents
 
-<!-- 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
+1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Scope](#04-scope)
 5. [Arrays I](#05-arrays-I)
-6. [Arrays II](#05-arrays-II) -->
+6. [Arrays II](#06-arrays-II)
+7. [Objects](#07-objects-i)
+8. [Object Methods](#08-objects-ii)
+9. [Pass By Value, Pass By Reference](#09-pass-by-value-pass-by-reference)
+<!--
+10. [Higher Order Functions I](#10-higher-order-functions-i)
+11. [Higher Order Functions II](#10-higher-order-functions-ii)
+12. [Recursion I](#12-recursion-i)
+13. [Recursion II](#13-recursion-ii)
+-->
 
 ## Additional Resources
 
@@ -170,7 +179,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 2. [join() + split()](06-arrays-II/02-join-split.js)
 3. [concat()](06-arrays-II/03-concat.js)
 4. [Nested Arrays](06-arrays-II/04-nested-arrays.js)
-6. [Grid](06-arrays-II/05-array-grid.js)
+5. [Grid](06-arrays-II/05-array-grid.js)
 
 ## **07 Objects I**
 
@@ -196,7 +205,6 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 9. [Nested Objects](07-objects-i/09-nested-object.js)
 10. [Animal Noises Review](07-objects-i/10-animal-noises-review.js)
 
-
 ## **08 Objects II**
 
 **[Live Lecture](https://youtu.be/GZCwhot5uBA)**
@@ -216,9 +224,9 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 5. [Calculator Example](08-objects-ii/05-calc-example.js)
 6. [Taco Cat Inc](08-objects-ii/06-taco-cat-inc-review.js)
 
-<!-- ## **09 Pass by Value, Pass by Reference**
+## **09 Pass by Value, Pass by Reference**
 
-**[Live Lecture](https://youtu.be/5UPA-Xa1Wi0)**
+**[Live Lecture](https://youtu.be/Tq2362cRD3Y)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
 
@@ -240,7 +248,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 10. [Equality and Comparisons](09-pass-by-value-pass-by-reference/J-equality.js)
 11. [PBV-PBR & Array.slice()](09-pass-by-value-pass-by-reference/K-array-slice.js)
 
-## **10 Higher Order Functions I**
+<!-- ## **10 Higher Order Functions I**
 
 **[Live Lecture](https://youtu.be/FiEY_pb_cR0)**
 
@@ -268,9 +276,47 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ### Notes
 
-[Full Notes](11-higher-order-functions-II)
+[Full Notes](11-higher-order-functions-ii)
 
-1. [Returning Values From Functions](11-higher-order-functions-II/A-ret-val-func.js)
-2. [Returning Functions From Functions](11-higher-order-functions-II/B-ret-fnc-fnc.js)
-3. [Passing Functions in Functions](11-higher-order-functions-II/C-scope.js)
-4. [Closure](11-higher-order-functions-II/D-closure.js)
+1. [Returning Values From Functions](11-higher-order-functions-ii/A-ret-val-func.js)
+2. [Returning Functions From Functions](11-higher-order-functions-ii/B-ret-fnc-fnc.js)
+3. [Passing Functions in Functions](11-higher-order-functions-ii/C-scope.js)
+4. [Closure](11-higher-order-functions-ii/D-closure.js)
+
+## **12 Recursion I**
+
+**[Live Lecture]()**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
+
+### Notes
+[Full Notes](12-recursion-i)
+1. [Call Stack I](12-recursion-i/01-call-stack-i.js)
+2. [Call Stack II](12-recursion-i/02-call-stack-ii.js)
+3. [Iterative Countdown](12-recursion-i/03-iterative-countdown.js)
+4. [Countdown - Just Logging](12-recursion-i/04-countdown-just-logging.js)
+5. [Countdown - Only recursive case](12-recursion-i/05-countdown-only-recursive-case.js)
+6. [Countdown - recursive + base case](12-recursion-i/06-countdown-base-and-recursive-case.js)
+7. [Notes to keep in mind](12-recursion-i/07-important-notes-to-keep-in-mind.js)
+8. [Factorial - base case](12-recursion-i/08-factorial-base-case.js)
+9. [Factorial - simple recursive case](12-recursion-i/09-factorial-simple-recursive-case.js)
+10. [Factorial- solution + takeaways](12-recursion-i/10-factorial-solution-takeaways.js)
+11. [Recursion + arrays](12-recursion-i/11-recursion-and-arrays.js)
+
+
+## **13 Recursion II**
+
+**[Live Lecture]()**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
+
+[Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010)
+
+### Notes
+[Full Notes](13-recursion-ii)
+
+1. [logsAnArray](13-recursion-ii/A-logsAnArray.js)
+2. [concatEls](13-recursion-ii/B-concatEls.js)
+3. [sumVals](13-recursion-ii/C-sumVals.js)
