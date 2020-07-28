@@ -173,13 +173,13 @@ pip.sayHi = mrBear.salute;
 // pip.sayHi('Sarah');
 // console.log(pip);
 
-// pip.sayHi = function(name){
-//   //  this => pip
-//   console.log(`Hello ${name}, I am ${this.name} the ${this.color} ${this.species}.`);
-// };
+pip.sayHi = function(name){
+  //  this => pip
+  console.log(`Hello ${name}, I am ${this.name} the ${this.color} ${this.species}.`);
+};
 
-pip.name = "Pip the little guy"
-pip.sayHi("Sara")
+// pip.name = "Pip the little guy"
+// pip.sayHi("Sara")
 
 
 

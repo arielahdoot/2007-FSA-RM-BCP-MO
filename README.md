@@ -248,25 +248,29 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 10. [Equality and Comparisons](09-pass-by-value-pass-by-reference/J-equality.js)
 11. [PBV-PBR & Array.slice()](09-pass-by-value-pass-by-reference/K-array-slice.js)
 
-<!-- ## **10 Higher Order Functions I**
 
-**[Live Lecture](https://youtu.be/FiEY_pb_cR0)**
+## **10 High Order Functions I**
+
+<!-- **[Live Lecture](https://youtu.be/9Zfhjlkuo5w)** -->
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text) -->
 
-### Notes
+### Notes 
+[Full Notes](10-high-order-functions-i)
 
-[Full Notes](10-higher-order-functions-I)
+1. [Values and Arrays](10-high-order-functions-i/01-values-and-arrays.js) 
+2. [Functions And Arrays](10-high-order-functions-i/02-functions-and-arrays.js)      
+3. [Calling functions in array](10-high-order-functions-i/03-calling-functions-in-array.js)    
+4. [Passing functions into functions](10-high-order-functions-i/04-passing-functions-into-functions.js)
+5. [callsWithName Example](10-high-order-functions-i/05-calls-with-name-example.js)  
+6. [callsWithHello Example](10-high-order-functions-i/06-calls-with-hello-example.js)       
+7. [callsWithAll Example](10-high-order-functions-i/07-calls-all-with-example.js)
+8. [calc Example](10-high-order-functions-i/08-calc-example.js)
+9. [.forEach and .map](10-high-order-functions-i/09-forEach-map-array-method.js)    
 
-1. [Why Functions Are Special](10-higher-order-functions-I/A-fn-special.js)
-2. [Functions in Arrays](10-higher-order-functions-I/B-fn-in-arrays.js)
-3. [Passing Functions in Functions](10-higher-order-functions-I/C-pass-fn-in-fn.js)
-4. [Anonymous Functions](10-higher-order-functions-I/D-anon-functions.js)
-5. [Array.forEach()](10-higher-order-functions-I/E-for-each.js)
-
-## **11 Higher Order Functions II**
+<!-- ## **11 Higher Order Functions II**
 
 **[Live Lecture](https://youtu.be/IuD8a51qfyU)**
 
