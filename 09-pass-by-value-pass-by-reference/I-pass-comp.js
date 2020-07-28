@@ -10,6 +10,7 @@ myArray: [10]
 */
 
 function pushes20(array) {
+  // let array = myArray;
   array.push(20);
   return array;
 }

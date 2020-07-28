@@ -6,7 +6,6 @@
   - boolean
   - undefined
   - null
-  - ES6 symbols (not covered in this course)
 
 complex values in JS:
   - objects (including arrays)

@@ -11,7 +11,7 @@ Example:
 --------
 let array = [1,2];
 array is the label of the box
-5 is the address/reference to where the true contents of the box are stored
+0x001 is the address/reference to where the true contents of the box are stored
 */
 
 

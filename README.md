@@ -8,12 +8,21 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## Table of Contents
 
-<!-- 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
+1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Scope](#04-scope)
 5. [Arrays I](#05-arrays-I)
-6. [Arrays II](#05-arrays-II) -->
+6. [Arrays II](#06-arrays-II)
+7. [Objects](#07-objects-i)
+8. [Object Methods](#08-objects-ii)
+9. [Pass By Value, Pass By Reference](#09-pass-by-value-pass-by-reference)
+<!--
+10. [Higher Order Functions I](#10-higher-order-functions-i)
+11. [Higher Order Functions II](#10-higher-order-functions-ii)
+12. [Recursion I](#12-recursion-i)
+13. [Recursion II](#13-recursion-ii)
+-->
 
 ## Additional Resources
 
@@ -215,9 +224,9 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 5. [Calculator Example](08-objects-ii/05-calc-example.js)
 6. [Taco Cat Inc](08-objects-ii/06-taco-cat-inc-review.js)
 
-<!-- ## **09 Pass by Value, Pass by Reference**
+## **09 Pass by Value, Pass by Reference**
 
-**[Live Lecture](https://youtu.be/5UPA-Xa1Wi0)**
+**[Live Lecture](https://youtu.be/Tq2362cRD3Y)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
 
@@ -239,7 +248,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 10. [Equality and Comparisons](09-pass-by-value-pass-by-reference/J-equality.js)
 11. [PBV-PBR & Array.slice()](09-pass-by-value-pass-by-reference/K-array-slice.js)
 
-## **10 Higher Order Functions I**
+<!-- ## **10 Higher Order Functions I**
 
 **[Live Lecture](https://youtu.be/FiEY_pb_cR0)**
 
