@@ -23,14 +23,15 @@
 
 // let bridges = ['Brooklyn', 'Golden Gate', 'London'];
 
-// function logUpperCase(elem) {
-//   console.log(elem.toUpperCase());
+// // elem, index, arr
+// function logUpperCase(str) {
+//   console.log(str.toUpperCase());
 // }
 
 // bridges.forEach(logUpperCase);
 // const pets = ['Mr Bear', 'Pusheen', 'Sookie', 'Winkie'];
 
-// function lovesToEat(name, idx){
+// function lovesToEat(name, idx, arr) {
 //   console.log(`${name} loves to eat. He is at index ${idx}`);
 //   return name.toUpperCase();
 // }
@@ -40,10 +41,6 @@
 // const forEachReturn = pets.forEach(lovesToEat);
 // console.log(pets);
 // console.log(forEachReturn);
-// function logUpperCase(bridge, i, arr) {
-//   console.log(bridge.toUpperCase(), `at index ${i}`);
-// }
-
 
 
 // function logUpperCase(elem) {
@@ -90,15 +87,19 @@
 const nums = [1, 2, 3, 4, 5];
 
 function squareNum(num){
-  return num *  num;
+  // return num *  num;
+  console.log(num * num);
+  // return undefined
 }
 
-// const numsSquared = nums.map(squareNum);
-// console.log(numsSquared);
+const numsSquared = nums.map(squareNum);
+console.log(nums);
+console.log(numsSquared);
 
 const numsSquared = nums.map(function(num) {
   return num * num;
 })
 
-console.log(numsSquared);
-console.log(nums);
+const numsSquared = nums.map((num) => num * num);
+// console.log(numsSquared);
+// console.log(nums);

@@ -72,36 +72,9 @@
 // high order
 // callback 
 
-function callAllWith(arr, callbackFunc) {
-  for (let i = 0; i < arr.length; i++) {
-    const elem = arr[i];
-    callbackFunc(elem);
-  }
-}
-
-
-const pets = ['Mr Bear', 'Pusheen', 'Sookie', 'Winkie'];
-
-// function petLovesToJump(petName){
-//   console.log(`${petName} loves to jump.`)
+// function callAllWith(arr, callbackFunc) {
+//   for (let i = 0; i < arr.length; i++) {
+//     const elem = arr[i];
+//     callbackFunc(elem);
+//   }
 // }
-
-function lovesToEat(name){
-  console.log(`${name} loves to eat.`)
-}
-
-console.log(lovesToEat);
-// callAllWith(pets, petLovesToJump);  //
-// callAllWith(pets, lovesToEat); //
-
-
-const plants = ['Planty', 'Mr. Plant', 'Theodore'];
-// callAllWith(plants, lovesToEat);
-
-// function needsFertilizer(name) {
-//   console.log(`${name} need fertilizer.`)
-// }
-// callsAllWith(plants, needsFertilizer);
-callAllWith(plants, function (name) {
-  console.log(`${name} need fertilizer.`)
-})

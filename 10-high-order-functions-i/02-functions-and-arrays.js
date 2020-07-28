@@ -10,13 +10,27 @@ function happyFunction() {
   console.log('I am happy!');
 }
 
-amazingArray.push(happyFunction);
-amazingArray.push(happyFunction);
-amazingArray.push(happyFunction);
-// console.log(amazingArray);
+function madFunction() {
+  console.log('I am mad!');
 
-const elem = amazingArray[0];
-console.log(elem);
-elem();
+}
+
+function sadFunction(){
+  console.log('I am sad!');
+
+}
+amazingArray.push(happyFunction);
+amazingArray.push(madFunction);
+amazingArray.push(sadFunction);
+console.log(amazingArray);
+
+// const elem = amazingArray[0];
+// console.log(elem);
+// elem();
 // console.log(amazingArray[0])
-amazingArray[0]();
+// amazingArray[0]();
+
+for (let i = 0; i< amazingArray.length; i++){
+  const elem = amazingArray[i];
+  elem();
+}
