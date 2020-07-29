@@ -6,11 +6,11 @@
   hoisting
 */
 
-// function callAllWith(arr, callbackFunc) {
-//   for(let i = 0; i < arr.length; i++) {
-//     callbackFunc(arr[i]);
-//   };
-// };
+function callAllWith(arr, callbackFunc) {
+  for(let i = 0; i < arr.length; i++) {
+    callbackFunc(arr[i]);
+  };
+};
 // let group = ["Jane", "Jill", "Pip", "Mike"];
 
 
@@ -72,9 +72,9 @@
 // high order
 // callback 
 
-// function callAllWith(arr, callbackFunc) {
-//   for (let i = 0; i < arr.length; i++) {
-//     const elem = arr[i];
-//     callbackFunc(elem);
-//   }
-// }
+function callAllWith(arr, callbackFunc) {
+  for (let i = 0; i < arr.length; i++) {
+    const elem = arr[i];
+    callbackFunc(elem);
+  }
+}

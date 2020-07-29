@@ -37,6 +37,7 @@ https://goo.gl/r7dHnj
 function callsAFunction(anotherFunction) {
   // anotherFunction(); // invoking this time
   console.log("running");
+  // happyFunction();
   anotherFunction();
 }
 

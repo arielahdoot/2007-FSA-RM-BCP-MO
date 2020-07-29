@@ -11,6 +11,7 @@ function saysBye(name) {
 }
 
 function callsWithName(name, otherFunction) {
+  // saysBye('Sadie')
   otherFunction(name);
 }
 
