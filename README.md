@@ -226,7 +226,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **09 Pass by Value, Pass by Reference**
 
-**[Live Lecture](https://youtu.be/Tq2362cRD3Y)**
+**[Live Lecture](https://youtu.be/8CBlAbgo6jk)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
 
