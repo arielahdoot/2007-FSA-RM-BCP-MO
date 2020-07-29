@@ -226,7 +226,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **09 Pass by Value, Pass by Reference**
 
-**[Live Lecture](https://youtu.be/8CBlAbgo6jk)**
+**[Live Lecture](https://youtu.be/Tq2362cRD3Y)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
 
@@ -251,12 +251,13 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 ## **10 High Order Functions I**
 
-<!-- **[Live Lecture](https://youtu.be/9Zfhjlkuo5w)** -->
+**[Live Lecture](https://youtu.be/8CBlAbgo6jk)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
 
+[Review Video](https://youtu.be/naTmHcFqn7s)
 ### Notes 
 [Full Notes](10-high-order-functions-i)
 
@@ -269,6 +270,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 7. [callsWithAll Example](10-high-order-functions-i/07-calls-all-with-example.js)
 8. [calc Example](10-high-order-functions-i/08-calc-example.js)
 9. [.forEach and .map](10-high-order-functions-i/09-forEach-map-array-method.js)    
+10. [Chain Reaction review](10-high-order-functions-i/10-chain-reaction-review.js)
 
 <!-- ## **11 Higher Order Functions II**
 
