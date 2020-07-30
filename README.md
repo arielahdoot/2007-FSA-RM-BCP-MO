@@ -17,9 +17,9 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 7. [Objects](#07-objects-i)
 8. [Object Methods](#08-objects-ii)
 9. [Pass By Value, Pass By Reference](#09-pass-by-value-pass-by-reference)
-<!--
 10. [Higher Order Functions I](#10-higher-order-functions-i)
 11. [Higher Order Functions II](#10-higher-order-functions-ii)
+<!--
 12. [Recursion I](#12-recursion-i)
 13. [Recursion II](#13-recursion-ii)
 -->
@@ -272,9 +272,9 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 9. [.forEach and .map](10-high-order-functions-i/09-forEach-map-array-method.js)    
 10. [Chain Reaction review](10-high-order-functions-i/10-chain-reaction-review.js)
 
-<!-- ## **11 Higher Order Functions II**
+## **11 Higher Order Functions II**
 
-**[Live Lecture](https://youtu.be/IuD8a51qfyU)**
+**[Live Lecture](https://youtu.be/pAtDHJs5bis)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
@@ -289,7 +289,7 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 3. [Passing Functions in Functions](11-higher-order-functions-ii/C-scope.js)
 4. [Closure](11-higher-order-functions-ii/D-closure.js)
 
-## **12 Recursion I**
+<!-- ## **12 Recursion I**
 
 **[Live Lecture]()**
 
