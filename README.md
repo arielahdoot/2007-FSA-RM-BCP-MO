@@ -19,10 +19,10 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 9. [Pass By Value, Pass By Reference](#09-pass-by-value-pass-by-reference)
 10. [Higher Order Functions I](#10-higher-order-functions-i)
 11. [Higher Order Functions II](#10-higher-order-functions-ii)
-<!--
 12. [Recursion I](#12-recursion-i)
+<!--
 13. [Recursion II](#13-recursion-ii)
--->
+    -->
 
 ## Additional Resources
 
@@ -248,7 +248,6 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 10. [Equality and Comparisons](09-pass-by-value-pass-by-reference/J-equality.js)
 11. [PBV-PBR & Array.slice()](09-pass-by-value-pass-by-reference/K-array-slice.js)
 
-
 ## **10 High Order Functions I**
 
 **[Live Lecture](https://youtu.be/8CBlAbgo6jk)**
@@ -258,18 +257,20 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
 
 [Review Video](https://youtu.be/naTmHcFqn7s)
-### Notes 
+
+### Notes
+
 [Full Notes](10-high-order-functions-i)
 
-1. [Values and Arrays](10-high-order-functions-i/01-values-and-arrays.js) 
-2. [Functions And Arrays](10-high-order-functions-i/02-functions-and-arrays.js)      
-3. [Calling functions in array](10-high-order-functions-i/03-calling-functions-in-array.js)    
+1. [Values and Arrays](10-high-order-functions-i/01-values-and-arrays.js)
+2. [Functions And Arrays](10-high-order-functions-i/02-functions-and-arrays.js)
+3. [Calling functions in array](10-high-order-functions-i/03-calling-functions-in-array.js)
 4. [Passing functions into functions](10-high-order-functions-i/04-passing-functions-into-functions.js)
-5. [callsWithName Example](10-high-order-functions-i/05-calls-with-name-example.js)  
-6. [callsWithHello Example](10-high-order-functions-i/06-calls-with-hello-example.js)       
+5. [callsWithName Example](10-high-order-functions-i/05-calls-with-name-example.js)
+6. [callsWithHello Example](10-high-order-functions-i/06-calls-with-hello-example.js)
 7. [callsWithAll Example](10-high-order-functions-i/07-calls-all-with-example.js)
 8. [calc Example](10-high-order-functions-i/08-calc-example.js)
-9. [.forEach and .map](10-high-order-functions-i/09-forEach-map-array-method.js)    
+9. [.forEach and .map](10-high-order-functions-i/09-forEach-map-array-method.js)
 10. [Chain Reaction review](10-high-order-functions-i/10-chain-reaction-review.js)
 
 ## **11 Higher Order Functions II**
@@ -289,30 +290,26 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 3. [Passing Functions in Functions](11-higher-order-functions-ii/C-scope.js)
 4. [Closure](11-higher-order-functions-ii/D-closure.js)
 
-<!-- ## **12 Recursion I**
+## **12 Recursion I**
 
-**[Live Lecture]()**
+**[Live Lecture](https://youtu.be/agKcO2VW5b8)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
 ### Notes
+
 [Full Notes](12-recursion-i)
-1. [Call Stack I](12-recursion-i/01-call-stack-i.js)
-2. [Call Stack II](12-recursion-i/02-call-stack-ii.js)
-3. [Iterative Countdown](12-recursion-i/03-iterative-countdown.js)
-4. [Countdown - Just Logging](12-recursion-i/04-countdown-just-logging.js)
-5. [Countdown - Only recursive case](12-recursion-i/05-countdown-only-recursive-case.js)
-6. [Countdown - recursive + base case](12-recursion-i/06-countdown-base-and-recursive-case.js)
-7. [Notes to keep in mind](12-recursion-i/07-important-notes-to-keep-in-mind.js)
-8. [Factorial - base case](12-recursion-i/08-factorial-base-case.js)
-9. [Factorial - simple recursive case](12-recursion-i/09-factorial-simple-recursive-case.js)
-10. [Factorial- solution + takeaways](12-recursion-i/10-factorial-solution-takeaways.js)
-11. [Recursion + arrays](12-recursion-i/11-recursion-and-arrays.js)
 
+1. [Call Stack I](12-recursion-i/A-definition.js)
+2. [Call Stack II](12-recursion-i/B-thecallstack.js)
+3. [Iterative Countdown](12-recursion-i/C-countdown.js)
+4. [Countdown - Just Logging](12-recursion-i/D-factorial.js)
+5. [Countdown - Only recursive case](12-recursion-i/E-iterables.js)
+6. [Countdown - recursive + base case](12-recursion-i/F-hints.js)
 
-## **13 Recursion II**
+<!-- ## **13 Recursion II**
 
 **[Live Lecture]()**
 
