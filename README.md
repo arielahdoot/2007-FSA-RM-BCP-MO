@@ -302,12 +302,12 @@ Hello! This is where Ariel and Sulamita will put all the material for BCP. If an
 
 [Full Notes](12-recursion-i)
 
-1. [Call Stack I](12-recursion-i/A-definition.js)
-2. [Call Stack II](12-recursion-i/B-thecallstack.js)
-3. [Iterative Countdown](12-recursion-i/C-countdown.js)
-4. [Countdown - Just Logging](12-recursion-i/D-factorial.js)
-5. [Countdown - Only recursive case](12-recursion-i/E-iterables.js)
-6. [Countdown - recursive + base case](12-recursion-i/F-hints.js)
+1. [Definition of Recursion](12-recursion-i/A-definition.js)
+2. [The Call Stack](12-recursion-i/B-thecallstack.js)
+3. [Countdown](12-recursion-i/C-countdown.js)
+4. [Factorial](12-recursion-i/D-factorial.js)
+5. [Iterables](12-recursion-i/E-iterables.js)
+6. [Hints](12-recursion-i/F-hints.js)
 
 <!-- ## **13 Recursion II**
 
