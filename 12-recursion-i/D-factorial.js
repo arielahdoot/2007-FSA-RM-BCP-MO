@@ -94,16 +94,16 @@ Recursive Case - if the Base Case is NOT proven true, we've reached the recursiv
 
 // Note: it's safe to run THIS code on pythontutor (http://pythontutor.com/javascript.html#mode=edit)
 
-// function factorial(num) {
-//   // base case: num is 0 or 1
-//   if (num === 0 || num === 1) {
-//     return 1;
-//   }
-//   // recursive case: num must get closer to 0 or 1
-//   // just have to return the result now
-//   let result = num * factorial(num - 1);
-//   return result;
-// }
+function factorial(num) {
+  // base case: num is 0 or 1
+  if (num === 0 || num === 1) {
+    return 1;
+  }
+  // recursive case: num must get closer to 0 or 1
+  // just have to return the result now
+  let result = num * factorial(num - 1);
+  return result;
+}
 
 // let threeFactorial = factorial(3);
 // console.log(threeFactorial);
