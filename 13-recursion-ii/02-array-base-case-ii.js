@@ -2,6 +2,11 @@ function logsAnArray(array) {
   for (let i = 0; i < array.length; i++) {
     let element = array[i];
     console.log(element);
+    if (Array.isArray(element)) {
+      for (let j = 0; j < element.length; j++) {
+        
+      }
+    }
   }
 }
 logsAnArray([1, [2, 3]]); // what if the input is nested?

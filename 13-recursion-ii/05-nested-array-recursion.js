@@ -14,7 +14,7 @@ function concatEls(array) {
       // recursive case
       const nestedArr = element;
       const nestedConcat = concatEls(nestedArr); // will return the string 'bc'
-      console.log("nested concat", nestedConcat)
+      finalString += nestedConcat;
     } else {
       // base case
       finalString += element;
